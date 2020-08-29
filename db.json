@@ -1,0 +1,76 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nama": "Juan Angela Alma",
+            "umur": 19,
+            "no_hp": "098686797789"
+          },
+          {
+            "id": 2,
+            "nama": "Uzumaki Naruto",
+            "umur": 18,
+            "no_hp": "098686797789"
+          },
+          {
+            "id": 3,
+            "nama": "Sasuke Uchiha",
+            "umur": 19,
+            "no_hp": "098686797789"
+          },
+          {
+            "id": 4,
+            "nama": "Juan Angela Alma",
+            "umur": 19,
+            "no_hp": "098686797789"
+          },
+          {
+            "id": 5,
+            "nama": "Uzumaki Naruto",
+            "umur": 18,
+            "no_hp": "098686797789"
+          },
+          {
+            "id": 6,
+            "nama": "Sasuke Uchiha",
+            "umur": 19,
+            "no_hp": "098686797789"
+          },
+          {
+            "id": 7,
+            "nama": "Juan Angela Alma",
+            "umur": 19,
+            "no_hp": "098686797789"
+          },
+          {
+            "id": 8,
+            "nama": "Uzumaki Naruto",
+            "umur": 18,
+            "no_hp": "098686797789"
+          },
+          {
+            "id": 9,
+            "nama": "Sasuke Uchiha",
+            "umur": 19,
+            "no_hp": "098686797789"
+          },
+          {
+            "id": 10,
+            "nama": "Juan Angela Alma",
+            "umur": 19,
+            "no_hp": "098686797789"
+          },
+          {
+            "id": 11,
+            "nama": "Uzumaki Naruto",
+            "umur": 18,
+            "no_hp": "098686797789"
+          },
+          {
+            "id": 12,
+            "nama": "Sasuke Uchiha",
+            "umur": 19,
+            "no_hp": "098686797789"
+          }
+    ]
+}
